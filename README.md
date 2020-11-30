@@ -14,7 +14,7 @@ Stands for six different type of threats:
 * Elevation Of Privilege
 
 ## Tools
-Different tools for staying safe Online
+Different tools for staying safe Online.
 
 ### Browsers
 * [Firefox](https://www.mozilla.org/en-US/firefox/) - "*...is a free and open-source[24] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards.*" - [Source](https://en.wikipedia.org/wiki/Firefox)
@@ -45,6 +45,19 @@ Different tools for staying safe Online
 
 ### Passwords
 * [KeePassX](https://www.keepassx.org/) - "*KeePassX is an application for people with extremly high demands on secure personal data management. It has a light interface, is cross platform and published under the terms of the GNU General Public License.*"
+
+### Search Engines
+* [DuckDuckGo](https://duckduckgo.com/) - "*DuckDuckGo is an international community of extraordinary individuals, coming together on a mission to set a new standard of trust online.*"
+
+### Social Media And Trend Monitoring
+* [Boardreader](https://boardreader.com/) - "*Forum search engine[.]*"
+* [Followerwonk](https://followerwonk.com/) - "*Tools for Twitter Analytics, Bio Search and more[.]*"
+* [Google Alerts](https://www.google.com/alerts) - "*Monitor the web for interesting new content[.]*"
+* [Google Trends](https://trends.google.com/trends/) - "*Explore what the world is searching[.]*"
+* [Hootsuite](https://hootsuite.com/) - "*Easily manage all your social media and get results with Hootsuite.*"
+* [Social Mention](http://socialmention.com/) - "*Social Mention is a real time search platform[.]*"
+*  [Trendsmap](https://www.trendsmap.com/) - "*Trendsmap shows you the latest Twitter trending hashtags and topics from anywhere in the world. Click on a word, zoom into your area of interest, and explore.*"
+* [TweetDeck](https://tweetdeck.twitter.com/) - "*The most powerful Twitter tool for real-time tracking, organizing, and engagement. Reach your audiences and discover the best of Twitter.*"
 
 ### VPNs
 * [AirVPN](https://airvpn.org/) - "*A VPN based on OpenVPN and operated by activists and hacktivists in defence of net neutrality, privacy and against censorship.*"
