@@ -19,7 +19,20 @@ STRIDE stands for six different types of threats, each tied to a desired propert
 According to [Wikipedia](https://en.wikipedia.org/wiki/STRIDE_(security)), STRIDE is typically applied, "*...to help reason and find threats to a system. It is used in conjunction with a model of the target system that can be constructed in parallel. This includes a full breakdown of processes, data stores, data flows and trust boundaries.*"
 
 ## Tools
-Different tools for staying safe Online.
+Different tools for staying safe, private and informed while Online.
+
+### Books
+* **The Art of Invisibility** - written by Kevin Mitnick, published on September 10th of 2019
+* **ComSec** - written by Justin Carroll, published on July 13th of 2018
+* **Extreme Privacy** - written by Michael Bazzell, published on May 27th of 2020
+* **Going Gray** - written by Matthew Dermody, published on January 22nd of 2020
+* **How To Be Your Own Bodyguard** - written by Nick Hughes, published on October 1st of 2011
+* **Open Source Intelligence Techniques** - written by Michael Bazzell, published on October 25 on 2019
+* **Operator Handbook** - written by Joshua Picolet and published on March 18th of 2020
+* **Situational Sense** - written by Matthew Dermody, published on December 10th of 2019
+* **Social Engineering** - written by Christopher Handagy, published on July 31st of 2018
+* **Surveillance Zone** - written by Ami Toben, published on May 21st of 2017
+* **Survive Like a Spy** - written by Jason Hanson, published on September 8th of 2020
 
 ### Browsers
 * [Firefox](https://www.mozilla.org/en-US/firefox/) - "*...is a free and open-source[24] web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards.*" - [Source](https://en.wikipedia.org/wiki/Firefox)
@@ -68,6 +81,6 @@ Different tools for staying safe Online.
 * [AirVPN](https://airvpn.org/) - "*A VPN based on OpenVPN and operated by activists and hacktivists in defence of net neutrality, privacy and against censorship.*"
 
 ## Conclusion
-There are a good number of reliable tools available to the averge person for staying safe and private Online. This document brings the best of them to you.
+There are a good number of reliable tools available to the averge person for staying safe, private and informed while Online. This document brings the best of them to you.
 
 Until this document is finished, it will be updated daily.
