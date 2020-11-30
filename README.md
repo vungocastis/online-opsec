@@ -1,17 +1,22 @@
 # Online Operations Security (OpSec)
 Threat models and tools for staying safe Online, used by the average person.
 
+## Introduction
+The purpose of this document is to organize useful tools (most of which are free) for staying safe, private and informed while Online.
+
 ## Threat Models
 Different threat models explored.
 
 ### STRIDE
-Stands for six different type of threats:
-* Spoofing
-* Tampering
-* Repudiation
-* Information Disclosure
-* Denial Of Service
-* Elevation Of Privilege
+STRIDE stands for six different types of threats, each tied to a desired property:
+* Spoofing / Authenticity
+* Tampering / Integrity
+* Repudiation / Non-Repudiability
+* Information Disclosure / Confidentiality
+* Denial Of Service / Availability
+* Elevation Of Privilege / Authorization
+
+According to [Wikipedia](https://en.wikipedia.org/wiki/STRIDE_(security)), STRIDE is typically applied, "*...to help reason and find threats to a system. It is used in conjunction with a model of the target system that can be constructed in parallel. This includes a full breakdown of processes, data stores, data flows and trust boundaries.*"
 
 ## Tools
 Different tools for staying safe Online.
@@ -61,3 +66,8 @@ Different tools for staying safe Online.
 
 ### VPNs
 * [AirVPN](https://airvpn.org/) - "*A VPN based on OpenVPN and operated by activists and hacktivists in defence of net neutrality, privacy and against censorship.*"
+
+## Conclusion
+There are a good number of reliable tools available to the averge person for staying safe and private Online. This document brings the best of them to you.
+
+Until this document is finished, it will be updated daily.
