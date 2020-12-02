@@ -4,14 +4,37 @@ Threat models and tools for staying safe, private and informed while Online, use
 *Until the first draft of this document is finished (sometime before 02/01/2021), it will be updated daily.*
 
 ## Introduction
-The purpose of this document is to organize useful context (in the form of threat modeling) and tools (most of which are free) for staying safe, private and informed while Online. If a resource mentioned herein does require one to spend money for access, said tool is assuredly both low-cost and high-value.
+OpSec or Operations Security can be defined (when referring to [Wikipedia](https://en.wikipedia.org/wiki/Operations_security)) as a, "*...process that identifies critical information to determine if friendly actions can be observed by enemy intelligence, determines if information obtained by adversaries could be interpreted to be useful to them, and then executes selected measures that eliminate or reduce adversary exploitation of friendly critical information.*" All of which can be applied to the physical and/or digital worlds.
 
-The need to remain secure when using the Internet is relevant to everyone.
+Online OpSec, for the individual Internet user, is quite a serious topic and best to be treated as such.
+
+The purpose of this document therefore is to organize useful context (in the form of information about threat modeling) and tools (most of which are free) for staying safe, private and informed while Online. If a resource mentioned herein does require one to spend money for access, said tool is assuredly both low-cost and high-return.
+
+### Quintessentials
+Before diving into the world(s) of Online OpSec, it's important to understand what is at risk; more accurately, it's important to understand what we value.
+
+The substance of this document can help the individual maintain their safety, privacy and access to information above other states or pursuits. To help explain, below is an overview of what *safe*, *private* and *informed* mean.
+
+#### Safe
+To be safe (when referencing [Wikipedia](https://en.wikipedia.org/wiki/Safety)) means to be, "*...protected from harm or other non-desirable outcomes. Safety can also refer to the control of recognized hazards in order to achieve an acceptable level of risk.*"
+
+#### Private
+To be private (according to the [IAPP](https://iapp.org/about/what-is-privacy/)) means to be, "*...let alone, or [to have] freedom from interference or intrusion.*"
+
+#### Informed
+To be informed (as mentioned on [Merriam-Webster.com](https://www.merriam-webster.com/dictionary/well-informed)) means to be especially, "*...knowledgeable in a particular subject[.]*"
+
+To be informed is to be aware of properties and their value(s).
+
+### Relevancy
+The need to remain secure when using the Internet is relevant to everyone; regardless of who, what, why, how, where and/or when one is.
+
+Moving forward, threat models are covered first, followed by specific tools; ever reaching for that meta (yet granular) agency, an ideal state indeed.
 
 ## Threat Models
-A threat model is a structured and systematic means by which individuals can identify potential vulnerabilities, understand the implications of each and respond accordingly in order to mitigate damage. The intention behind threat modeling, as mentioned on [Wikipedia](https://en.wikipedia.org/wiki/Threat_model), is to offer an, "*...analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker.*" In other words, designing a threat model is the conducting of an organized analysis of one's current situation and possible/foreseeable future dangers therein.
+A threat model is a structured and systematic means by which individuals can identify potential vulnerabilities, understand the implications of each and respond accordingly in order to mitigate damage. The intention behind threat modeling, as mentioned on [Wikipedia](https://en.wikipedia.org/wiki/Threat_model), is to offer an, "*...analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker.*" In other words, designing a threat model is the conducting of an organized review of one's current situation and possible/foreseeable future dangers therein.
 
-The objective for deploying a threat model is to determing what can go wrong inside a given set of variables; enabling the modeler to gain tactical advantages that might otherwise be missed.
+The objective for deploying a threat model is to determing what can go wrong inside a given set of variables; enabling the modeler to gain tactical advantages that might have otherwise been missed.
 
 Below you will find a growing number of threat modeling techniques that can be applied to anyone's situation Online.
 
@@ -71,11 +94,11 @@ Different tools for staying safe, private and informed while Online.
 * **[Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)** - "*When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest.*"
 * **[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)** - "*...prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.*"
 * **[Google Search Link Fix](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix/)** - "*...prevents Google and Yandex search pages from modifying search result links when you click them.*"
-* **[HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)** - "*HTTPS Everywhere is a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix.*"
-* **[NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/)** - "*The best security you can get in a web browser! Allow potentially malicious web content to run only from sites you trust. Protect yourself against XSS other web security exploits.*"
+* **[HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)** - "*...a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix.*"
+* **[NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/)** - "*Allow potentially malicious web content to run only from sites you trust. Protect yourself against XSS other web security exploits.*"
 * **[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)** - "*Automatically learns to block invisible trackers.*"
-* **[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** - "*Finally, an efficient wide-spectrum content blocker. Easy on CPU and memory.*"
-* **[uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)** - "*Point & click to forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.*"
+* **[uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)** - "*...an efficient wide-spectrum content blocker. Easy on CPU and memory.*"
+* **[uMatrix](https://addons.mozilla.org/en-US/firefox/addon/umatrix/)** - "*...forbid/allow any class of requests made by your browser. Use it to block scripts, iframes, ads, facebook, etc.*"
 
 ### Browsers
 * **[Firefox](https://www.mozilla.org/en-US/firefox/)** - "*...is a free and open-source web browser developed by the Mozilla Foundation and its subsidiary, the Mozilla Corporation. Firefox uses the Gecko layout engine to render web pages, which implements current and anticipated web standards.*" - [Source](https://en.wikipedia.org/wiki/Firefox)
@@ -98,24 +121,24 @@ Different tools for staying safe, private and informed while Online.
 * **[Ubuntu](https://ubuntu.com/)** - "*...a Linux distribution based on Debian and mostly composed of free and open-source software.*" - [Source](https://en.wikipedia.org/wiki/Ubuntu)
 
 ### Passwords
-* **[Bitwarden](https://bitwarden.com/)** - "*The easiest and safest way for individuals and businesses to store, share, and secure sensitive data on any device[.]*"
+* **[Bitwarden](https://bitwarden.com/)** - "*...easiest and safest way for individuals and businesses to store, share, and secure sensitive data on any device[.]*"
 * **[KeePassX](https://www.keepassx.org/)** - "*...an application for people with extremly high demands on secure personal data management. It has a light interface, is cross platform and published under the terms of the GNU General Public License.*"
 
 ### Search Engines
-* **[DuckDuckGo](https://duckduckgo.com/)** - "*DuckDuckGo is an international community of extraordinary individuals, coming together on a mission to set a new standard of trust online.*"
+* **[DuckDuckGo](https://duckduckgo.com/)** - "*...an international community of extraordinary individuals, coming together on a mission to set a new standard of trust online.*"
 
 ### Social Media And Trend Monitoring
 * **[Boardreader](https://boardreader.com/)** - "*Forum search engine[.]*"
-* **[Followerwonk](https://followerwonk.com/)** - "*Tools for Twitter Analytics, Bio Search and more[.]*"
+* **[Followerwonk](https://followerwonk.com/)** - "*...for Twitter Analytics, Bio Search and more[.]*"
 * **[Google Alerts](https://www.google.com/alerts)** - "*Monitor the web for interesting new content[.]*"
 * **[Google Trends](https://trends.google.com/trends/)** - "*Explore what the world is searching[.]*"
-* **[Hootsuite](https://hootsuite.com/)** - "*Easily manage all your social media and get results with Hootsuite.*"
-* **[Social Mention](http://socialmention.com/)** - "*Social Mention is a real time search platform[.]*"
-*  **[Trendsmap](https://www.trendsmap.com/)** - "*Trendsmap shows you the latest Twitter trending hashtags and topics from anywhere in the world. Click on a word, zoom into your area of interest, and explore.*"
-* **[TweetDeck](https://tweetdeck.twitter.com/)** - "*The most powerful Twitter tool for real-time tracking, organizing, and engagement. Reach your audiences and discover the best of Twitter.*"
+* **[Hootsuite](https://hootsuite.com/)** - "*...manage all your social media and get results with Hootsuite.*"
+* **[Social Mention](http://socialmention.com/)** - "*...a real time search platform[.]*"
+*  **[Trendsmap](https://www.trendsmap.com/)** - "*...the latest Twitter trending hashtags and topics from anywhere in the world. Click on a word, zoom into your area of interest, and explore.*"
+* **[TweetDeck](https://tweetdeck.twitter.com/)** - "*...for real-time tracking, organizing, and engagement. Reach your audiences and discover the best of Twitter.*"
 
 ### VPNs
-* **[AirVPN](https://airvpn.org/)** - "*A VPN based on OpenVPN and operated by activists and hacktivists in defence of net neutrality, privacy and against censorship.*"
+* **[AirVPN](https://airvpn.org/)** - "*...based on OpenVPN and operated by activists and hacktivists in defence of net neutrality, privacy and against censorship.*"
 
 ## Conclusion
 There are a good number of reliable tools available to the averge person for staying safe, private and informed while Online. This document brings the best of them to you.
