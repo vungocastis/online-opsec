@@ -1,18 +1,22 @@
 # Online Operations Security (OpSec)
-Threat models and tools for staying safe Online, used by the average person.
+Threat models and tools for staying safe, private and informed while Online, used by the average person.
 
 *Until the first draft of this document is finished (sometime before 02/01/2021), it will be updated daily.*
 
 ## Introduction
 The purpose of this document is to organize useful context (in the form of threat modeling) and tools (most of which are free) for staying safe, private and informed while Online. If a resource mentioned herein does require one to spend money for access, said tool is assuredly both low-cost and high-value.
 
+The need to remain secure when using the Internet is relevant to everyone.
+
 ## Threat Models
-A threat model is a structured and systematic means by which individuals can identify potential vulnerabilities, understand the implications of each and respond accordingly in order to mitigate damage. The intention behind threat modeling, as mentioned on [Wikipedia](https://en.wikipedia.org/wiki/Threat_model), is to offer an, "*...analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker.*" In other words, designing a threat model is the conducting of an organized analysis of one's current situation and possible future dangers.
+A threat model is a structured and systematic means by which individuals can identify potential vulnerabilities, understand the implications of each and respond accordingly in order to mitigate damage. The intention behind threat modeling, as mentioned on [Wikipedia](https://en.wikipedia.org/wiki/Threat_model), is to offer an, "*...analysis of what controls or defenses need to be included, given the nature of the system, the probable attacker's profile, the most likely attack vectors, and the assets most desired by an attacker.*" In other words, designing a threat model is the conducting of an organized analysis of one's current situation and possible/foreseeable future dangers therein.
+
+The objective for deploying a threat model is to determing what can go wrong inside a given set of variables; enabling the modeler to gain tactical advantages that might otherwise be missed.
 
 Below you will find a growing number of threat modeling techniques that can be applied to anyone's situation Online.
 
 ### STRIDE
-STRIDE (originally introduced by Microsoft) is an acronym representing six different types of threats, each tied to a desired state or property:
+STRIDE (originally introduced by Microsoft) is an acronym representing six different types of threats, each tied to a desired/alternative state or property:
 * Spoofing / Authenticity
 * Tampering / Integrity
 * Repudiation / Non-Repudiability
@@ -20,7 +24,7 @@ STRIDE (originally introduced by Microsoft) is an acronym representing six diffe
 * Denial Of Service / Availability
 * Elevation Of Privilege / Authorization
 
-According to [Wikipedia](https://en.wikipedia.org/wiki/STRIDE_(security)), STRIDE is typically applied, "*...to help reason and find threats to a system. It is used in conjunction with a model of the target system that can be constructed in parallel. This includes a full breakdown of processes, data stores, data flows and trust boundaries.*"
+According to [Wikipedia](https://en.wikipedia.org/wiki/STRIDE_(security)), STRIDE is typically applied when attempting to, "*...find threats to a system. It is used in conjunction with a model of the target system that can be constructed in parallel. This includes a full breakdown of processes, data stores, data flows and trust boundaries.*" The STRIDE model is popular because it is effective, but that relevancy (as mentioned by [Kevin Poniatowski](https://blog.securityinnovation.com/stride)) has been waning.
 
 #### Specific Threats
 
@@ -65,6 +69,8 @@ Different tools for staying safe, private and informed while Online.
 
 ### Browser Extensions
 * **[Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)** - "*When a tab closes, any cookies not being used are automatically deleted. Whitelist the ones you trust while deleting the rest.*"
+* **[Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)** - "*...prevents a lot of requests from reaching networks like Google Hosted Libraries, and serves local files to keep sites from breaking.*"
+* **[Google Search Link Fix](https://addons.mozilla.org/en-US/firefox/addon/google-search-link-fix/)** - "*...prevents Google and Yandex search pages from modifying search result links when you click them.*"
 * **[HTTPS Everywhere](https://addons.mozilla.org/en-US/firefox/addon/https-everywhere/)** - "*HTTPS Everywhere is a Firefox extension to protect your communications by enabling HTTPS encryption automatically on sites that are known to support it, even when you type URLs or follow links that omit the https: prefix.*"
 * **[NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/)** - "*The best security you can get in a web browser! Allow potentially malicious web content to run only from sites you trust. Protect yourself against XSS other web security exploits.*"
 * **[Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)** - "*Automatically learns to block invisible trackers.*"
